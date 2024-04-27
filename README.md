@@ -1,5 +1,5 @@
 # Sentiment analysis
-Sentiment analysis is a script to get a quick informations about sentiments on a specified topic among recent tweets.
+Sentiment analysis is a script to get a quick information about sentiments on a specified topic among recent tweets.
 
 ## Installation
 - Install [PyTorch](https://pytorch.org/get-started/locally/)
